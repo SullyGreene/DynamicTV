@@ -17,7 +17,7 @@
 
 ---
 
-Ah, for Kodi! Here's an updated version of the README tailored for installing the DynamicTV repository specifically as a Kodi addon:
+Ah, for Kodi! Here's an updated version of the README for installing the DynamicTV repository specifically as a Kodi addon:
 
 ---
 
