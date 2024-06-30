@@ -1,0 +1,17 @@
+<addon id="xbmc.repo.DynamicTVguide" name="DynamicTV Repo" version="0.0.1" provider-name="dTV">
+	<extension point="xbmc.addon.repository" name="DynamicTVguide Repo Add-ons Repository">
+		<info compressed="false">https://raw.githubusercontent.com/SullyGreene/DynamicTV/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/SullyGreene/DynamicTV/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/SullyGreene/DynamicTV</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install DynamicTVguide Repo </summary>
+		<description>Download and install for DynamicTV Guide Repo addons </description>
+		<disclaimer> Repo for DynamicTV Guide Repo addon </disclaimer>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
