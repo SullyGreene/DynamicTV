@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SullyGreene/DynamicTV/main/icon_01.png" 
+  <img src="https://raw.githubusercontent.com/SullyGreene/DynamicTV/main/icon.png" 
   alt="Logo" width="500" style="max-width:100%;height:auto;">
 </p>
 
